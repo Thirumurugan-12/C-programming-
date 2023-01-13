@@ -1,4 +1,8 @@
 #include <stdio.h>
+#include <stdlib.h>
+
+//Linear search
+
 
 int main() {
 	int a;
