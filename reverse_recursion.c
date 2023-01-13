@@ -16,7 +16,7 @@ void reverseSentence() {
 	scanf("%c",&c);
 
 	if (c!='\n') {
-		printf("%c\n",c);
+		//printf("%c\n",c);
 		reverseSentence();
 		printf("%c",c);
 	}
